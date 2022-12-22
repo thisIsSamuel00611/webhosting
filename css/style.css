@@ -1055,7 +1055,7 @@ h3,
 
 .testimonial .testimonial-img {
     width: 70px;
-    height: 70px;
+    height: auto;
     border-radius: 50%;
     margin-right: 20px
 }
